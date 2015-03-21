@@ -329,6 +329,7 @@ var uifunk = (function () {
                                  "San Diego",
                                  "Oakland",
                                  "Portland"]
+    
     var uifunk_library_state =  ["Alabama",
                                  "Alaska",
                                  "Arizona",
