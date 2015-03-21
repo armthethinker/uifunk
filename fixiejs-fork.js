@@ -256,7 +256,7 @@ var uifunk = (function () {
     }
 
     function uifunk_fetchWord() {
-        return uifunk_wordlibrary[constrain(0, uifunk_wordlibrary.length - 1 )];
+        return uifunk_library_word[constrain(0, uifunk_library_word.length - 1 )];
     }
 
     function constrain(min, max) {
