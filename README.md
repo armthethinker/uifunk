@@ -11,7 +11,8 @@ Currently built in PHP. Will be built into JS.
 - **Jobs**: Jobs
 - **Cities**: Cities
 - **States**: States
-- **Projects**: Project Names
+- **Projects**: Project names
+- **Content**: Random philosophy words
 
 ## Inspired by other great projects
 - fixie.js
