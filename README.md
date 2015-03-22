@@ -1,4 +1,4 @@
-# uifunk v.0.0.1
+# uifunk v0.1.0
 UIFunk is a content placeholder engine built to fill in content in HTML prototypes.
 
 Currently built in PHP. Will be built into JS.
