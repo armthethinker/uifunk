@@ -180,4 +180,16 @@ $company = array(
    "Orange Works",
    "Kale Associates"
 );
+$class = array(
+   "Yoga for Experts",
+   "Lift. Tone. Burn.",
+   "Cycling I",
+   "Cycling II",
+   "Cycling IIII",
+   "Crossfit for Beginners",
+   "Arms",
+   "Legs",
+   "Back",
+   "Swimming"
+);
 ?>
